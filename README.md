@@ -1,4 +1,7 @@
 # Computational Methods for Materials Science
+
+N.B. This is a close of the repository https://github.com/elliotperviz/cmms/tree/main
+
 Here you will find lecture and tutorial material for the course **Computational Methods for Materials Science**, taught at the Faculty of Electrical Engineering, Czech Technical University in Prague.
 
 <!--"Some words of an introduction to the course here"-->
